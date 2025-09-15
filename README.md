@@ -1,6 +1,7 @@
-# mywebproject
+# hello-world
 
-mywebproject Repository for Git and GitHub Tutorial
+Hello World repository for Git tutorial. This is an example repository for the Git tutorial on https://www.w3schools.com. This tutorial focuses mainly on Git and using GitHub as its remote.
 
-Ini adalah contoh repository untuk Git & GitHub yang ada di w3schools.com
-update readme
+This repository is built step by step in the tutorial.
+
+It now includes steps for GitHub.
